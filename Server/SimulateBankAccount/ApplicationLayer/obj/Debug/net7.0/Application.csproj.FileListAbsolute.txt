@@ -1,0 +1,15 @@
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\bin\Debug\net7.0\Application.deps.json
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\bin\Debug\net7.0\Application.dll
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\bin\Debug\net7.0\Application.pdb
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\bin\Debug\net7.0\Domain.dll
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\bin\Debug\net7.0\Domain.pdb
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\Application.dll
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\refint\Application.dll
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\Application.pdb
+D:\Document\InfiCareTask\Server\SimulateBankAccount\ApplicationLayer\obj\Debug\net7.0\ref\Application.dll

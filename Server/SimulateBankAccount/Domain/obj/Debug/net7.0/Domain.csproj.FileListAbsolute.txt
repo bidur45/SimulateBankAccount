@@ -1,0 +1,12 @@
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\bin\Debug\net7.0\Domain.dll
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\obj\Debug\net7.0\Domain.dll
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Document\InfiCareTask\Server\SimulateBankAccount\Domain\obj\Debug\net7.0\ref\Domain.dll
