@@ -16,15 +16,15 @@ const Footer: React.FC = () => {
       style={{
         background: 'none',
       }}
-      copyright={`${currentYear} ${defaultMessage}`}
-      links={[
-        {
-          key: 'Kalash Technologies',
-          title: 'Kalash Technologies',
-          href: 'https://www.google.com/',
-          blankTarget: true,
-        },
-      ]}
+      // copyright={`${currentYear} ${defaultMessage}`}
+      // links={[
+      //   {
+      //     key: 'Kalash Technologies',
+      //     title: 'Kalash Technologies',
+      //     href: 'https://www.google.com/',
+      //     blankTarget: true,
+      //   },
+      // ]}
     />
   );
 };

@@ -37,11 +37,25 @@ export default [
     component: "./404",
   },
   {
-    name: "test",
-    icon: "table",
-    path: "/test",
-    component: "./Test",
+    name: "Account",
+    icon: "form",
+    path: "/account",
+    component: "./Account",
   },
+  
+  {
+    name: "Deposit",
+    icon: "form",
+    path: "/deposit",
+    component: "./Deposit",
+  },
+  {
+    name: "Withdraw",
+    icon: "form",
+    path: "/withdraw",
+    component: "./Withdraw",
+  },
+
 
 ];
 
